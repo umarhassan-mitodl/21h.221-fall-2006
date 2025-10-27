@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains supplementary notes for course text.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -64,7 +62,7 @@ Discussion ({{% resource_link fbcb511c-a4ef-118d-805b-303b6fffa11d "PDF" %}})
 
 Discussion (cont.)
 
-Film: [_The Jazz Singer_](http://imdb.com/title/tt0018037/) ({{% resource_link 1581a3c6-42bc-eba1-433b-4ae8a0315212 "PDF" %}})
+Film: {{% resource_link "ba1ea7d6-2eef-4a01-ac78-f82cbfdf17aa" "_The Jazz Singer_" %}} ({{% resource_link 1581a3c6-42bc-eba1-433b-4ae8a0315212 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -75,7 +73,7 @@ Film: [_The Jazz Singer_](http://imdb.com/title/tt0018037/) ({{% resource_link 1
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Film: [The Jazz Singer](http://imdb.com/title/tt0018037/) (cont.) and Discussion ({{% resource_link 44c9d260-4bd6-645b-928f-359b11dd3f14 "PDF" %}})
+Film: {{% resource_link "ba1ea7d6-2eef-4a01-ac78-f82cbfdf17aa" "The Jazz Singer" %}} (cont.) and Discussion ({{% resource_link 44c9d260-4bd6-645b-928f-359b11dd3f14 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +129,7 @@ Lecture and Discussion: What's New about "New Immigration"? ({{% resource_link 5
 {{< tdopen >}}
 
 
-Film: _[The New Los Angeles](http://www.californiadreamseries.org/nla.htm)_
+Film: _{{% resource_link "27b56ecb-aeba-4ff3-b106-a8a73513ee3a" "The New Los Angeles" %}}_
 
 Brainstorming for Collaborative Research Project ({{% resource_link 99eba3c0-11eb-bb18-280f-533e2d7b325f "PDF" %}})
 

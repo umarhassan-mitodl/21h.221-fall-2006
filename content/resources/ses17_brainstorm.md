@@ -4,8 +4,6 @@ description: Lecture notes.
 file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/99eba3c011ebbb18280f533e2d7b325f_ses17_brainstorm.pdf
 file_size: 18845
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

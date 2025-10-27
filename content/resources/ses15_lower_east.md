@@ -4,8 +4,6 @@ description: Discussion notes.
 file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/f5ac4123b1c362410b50c92c8629c260_ses15_lower_east.pdf
 file_size: 25828
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

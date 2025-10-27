@@ -5,8 +5,6 @@ description: 'This resource is a student research paper on the topic "Muslim Int
 file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/d4cf5388e5ff9cd58cff8a6630cc18a7_paper_muslim_eu.pdf
 file_size: 70571
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

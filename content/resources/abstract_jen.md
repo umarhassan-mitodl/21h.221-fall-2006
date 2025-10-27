@@ -5,8 +5,6 @@ description: 'Jennifer Hernandez. "Abstract: As the Tide Turns: An Analysis of C
 file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/da7673466e6590040011a6c43e4892b1_abstract_jen.pdf
 file_size: 10277
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

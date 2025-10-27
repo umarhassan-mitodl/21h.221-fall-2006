@@ -4,8 +4,6 @@ description: Instructions for the research paper.
 file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/d12c85ffaf7ae225e8d751ef65e7ff48_research_paper.pdf
 file_size: 21899
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

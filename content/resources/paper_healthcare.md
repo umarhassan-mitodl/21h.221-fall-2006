@@ -5,8 +5,6 @@ description: 'Sarah Chu. "Active Children, Active Reformers: The Development of 
 file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/ff9957fafd6e1d997697f131a77213e1_paper_healthcare.pdf
 file_size: 109748
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
